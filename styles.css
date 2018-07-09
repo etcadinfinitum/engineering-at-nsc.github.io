@@ -1,0 +1,19 @@
+body {
+  background-color: DarkGray;
+  
+}
+
+.school-color {
+  color: #008FC5;
+} 
+
+.text {
+  padding: 20px;
+}
+
+.cal-div {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  height: auto;
+}
